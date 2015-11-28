@@ -1,0 +1,4 @@
+---
+applications:
+- name: dashing
+  memory: 256M

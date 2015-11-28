@@ -1,0 +1,15 @@
+{
+  "name": "d-js",
+  "description": "description",
+  "author": "author",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "dashing-js": "*",
+    "twitter": "*",
+    "request": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
